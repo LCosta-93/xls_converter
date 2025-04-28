@@ -1,0 +1,24 @@
+# Arquivos e pastas do ambiente virtual
+venv/
+*.pyc
+__pycache__/
+
+# Arquivos de log
+*.log
+
+# Configurações específicas do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários do editor/IDE
+.vscode/
+.idea/
+
+# Arquivos temporários do sistema
+*.tmp
+*.bak
+*.swp
+
+# Arquivos de cache do Python
+*.egg-info/
+.eggs/
